@@ -1,5 +1,14 @@
 # AspireNex
-Project Outline: Simple Rule-Based Chatbot
+TASK 1 - CHATBOT WITH RULE-BASED RESPONSES
+
+Build a simple chatbot that responds to user inputs based on predefined
+rules. Use if-else statements or pattern matching techniques to identify
+user queries and provide appropriate responses. This task will let us
+understand about your knowledge of natural language processing and
+conversation flow.
+
+
+
 1.	Setup: Create a project directory and a Python file.
 2.	Input Handling: Capture user input and process it.
 3.	Keyword Matching: Identify patterns in the user input.
